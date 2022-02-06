@@ -2,7 +2,7 @@
 Nicole Tome
 July 2, 2020
 ***************************************************/
-// This program takes 10 user input integers and displays them in sorted descending order. 
+// This program takes an array of 10 user input integers and displays them in sorted descending order. 
 
 import java.util.Arrays;
 import java.util.Scanner; 
