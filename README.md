@@ -6,4 +6,4 @@ All projects done in Java.
 Summary of Entries:
 
 CircleOperations: This program calculates the appropriate area, diameter or circumference of a circle once the radius is inputted by the user. 
-DescendingOrder: This program takes an array of 10 user input integers and displays them in sorted descending order.
+SortedDescendingOrder: This program takes an array of 10 user input integers and displays them in sorted descending order.
