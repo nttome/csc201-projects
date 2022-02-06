@@ -1,7 +1,7 @@
 /*****************************************
 Nicole Tome 
 August 1, 2020
-********************************ng princ***********/
+******************************************/
 //This program calculates the future value of investments utiliziipal, periods, and compounding interest. 
 
 
