@@ -13,4 +13,4 @@ SortedDescendingOrder: This program takes an array of 10 user input integers and
 
 FutureValueCalculator: This program calculates the future value of investments utilizing principal, periods, and compounding interest. 
 
-FileReaderLineNumber: This program reads and displays a user inputted file, with line numbers. 
+FileReaderLineNumbers: This program reads and displays a user inputted file, with line numbers. 
