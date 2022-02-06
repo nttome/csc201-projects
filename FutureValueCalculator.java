@@ -2,7 +2,7 @@
 Nicole Tome 
 August 1, 2020
 ******************************************/
-//This program calculates the future value of investments utiliziipal, periods, and compounding interest. 
+//This program calculates the future value of investments utilizing principal, periods, and compounding interest. 
 
 
 public class FutureValueCalculator {
