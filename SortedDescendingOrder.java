@@ -7,7 +7,7 @@ July 2, 2020
 import java.util.Arrays;
 import java.util.Scanner; 
 
-public class DescendingOrder {
+public class SortedDescendingOrder {
 
 	public static void main(String[] args) {
 
