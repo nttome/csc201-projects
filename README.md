@@ -27,3 +27,4 @@ YogaClassName: This program displays the class name of the number selected at Po
 
 YogaClassCount: This program counts the number of requests for each class type offered at Power Yoga Studio. 
 
+DaycareRate: This program calculates the daycare rate of children based on age and number of days. Cumulative summary posted at program exit.
