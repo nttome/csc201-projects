@@ -6,7 +6,7 @@ August 25, 2021
 
 
 import java.util.Scanner;
-public class Unit6Ex9 {
+public class PayrollCalculator {
 	  
 		   public static double getPercent(double grossPay) {
 		       if(grossPay<=200) //If gross pay under or equal $200, tax rate = 10%
