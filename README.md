@@ -19,3 +19,5 @@ Phone Selection: This program accepts a single letter input from the user and di
 
 PasswChecker: This program checks submitted password against the 10 most commonly used passwords for safety. Prompts for re-entry if user input matches commonly used list.
 
+PayrollCalculator: This program allows entry of employees by hourly wafe and number of hours, auto calculates gross pay, tax withholding and net totals for all employees entered. 
+
