@@ -7,7 +7,7 @@ July 17, 2021
 
 import java.util.Scanner;
 
-	public class Selection {
+	public class PhoneSelection {
 
 		public static void main(String[] args) {
 		
