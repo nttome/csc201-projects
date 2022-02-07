@@ -11,7 +11,7 @@ import java.io.IOException;
 import java.util.Scanner;
 
 
-public class LineNumbers {
+public class FileReaderLineNumbers {
 
     public static void main(String[] args) throws IOException {
     	
