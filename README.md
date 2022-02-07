@@ -24,3 +24,6 @@ PayrollCalculator: This program allows entry of employees by hourly wafe and num
 CalendarDays: This program designates the number of days in each month. 
 
 YogaClassName: This program displays the class name of the number selected at Power Yoga Studio. 
+
+YogaClassCount: This program counts the number of requests for each class type offered at Power Yoga Studio. 
+
