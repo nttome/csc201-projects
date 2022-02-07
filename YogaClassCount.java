@@ -6,7 +6,7 @@ August 8, 2020
 
 import java.util.Scanner;
 
-public class Unit6Ex5b {
+public class YogaClassCount {
 
   private static Scanner in = new Scanner(System.in);
 
