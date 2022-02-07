@@ -16,3 +16,6 @@ FutureValueCalculator: This program calculates the future value of investments u
 FileReaderLineNumbers: This program reads and displays a user inputted file, with line numbers. 
 
 Phone Selection: This program accepts a single letter input from the user and displays the corresponding digit on the telephone.
+
+PasswChecker: This program checks submitted password against the 10 most commonly used passwords for safety. Prompts for re-entry if user input matches commonly used list.
+
